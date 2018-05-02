@@ -1,0 +1,8 @@
+{
+  "name": "rbg2",
+  "app_id": "86026b27",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
